@@ -4,5 +4,3 @@ This repository contains Jupyter notebooks with code implementations of diferent
 Well written and explained with repectives equations, not only just code.
 
 Anderson Pozzi.   
-
- 
